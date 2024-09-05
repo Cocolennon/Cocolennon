@@ -1,4 +1,6 @@
-[![Cocolennon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cocolennon)](https://github.com/Cocolennon)
+[![Cocolennon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cocolennon&theme=radical&show_icons=true)](https://github.com/Cocolennon)
+
+[![Cocolennon's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cocolennon&theme=radical&show_icons=true)](https://github.com/Cocolennon)
 
 <!--
 **Cocolennon/Cocolennon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
